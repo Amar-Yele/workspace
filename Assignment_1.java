@@ -1,4 +1,4 @@
-class Assignment_1{
+public class Assignment_1{
 
     public static void main(String[] args) {
 
@@ -212,7 +212,7 @@ System.out.println("\nQ-1 --> INEURON");
 // **********
 
             int q = 20;
-            System.out.println("\nPRINT PROGRAM FOR PATTERN:");
+            System.out.println("\nQ--> 5 --> PRINT PROGRAM FOR PATTERN:");
 
             for(int i = 0; i<=q; i++){
 
